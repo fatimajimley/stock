@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 const storage = multer.memoryStorage()
 const upload = multer({ storage: storage })
-let stockData: Array<Record<string, any>> = [];
+let stockData: Array<Record<string, any>> = []
 
 
 app.post('/api/files',upload.single('file'), async (req, res) => {
