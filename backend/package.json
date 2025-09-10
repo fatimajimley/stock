@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend del sistema de stock",
+  "main": "server.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch src --exec \"node --loader ts-node/esm server.ts\"",
+    "build": "tsc --build tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimajimley/stock.git"
+  },
+  "author": "Fatima Nallely Jimley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatimajimley/stock/issues"
+  },
+  "homepage": "https://github.com/fatimajimley/stock#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^3.6.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/multer": "^2.0.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}

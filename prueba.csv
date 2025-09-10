@@ -1,0 +1,51 @@
+nombre,numero_inventario,descripcion,numero_serie,domicilio,nivel,area,area_de_trabajo,observaciones,foto,resguardo
+Laptop HP,INV-001,Laptop HP ProBook 450 G8,SN100001,Calle 123,2,TI,Oficina Principal,Ninguna,foto1.jpg,resguardo1.pdf
+Impresora Canon,INV-002,Impresora Laser Canon LBP2900,SN100002,Calle 123,1,TI,Oficina Principal,Ninguna,foto2.jpg,resguardo2.pdf
+Monitor Dell,INV-003,Monitor Dell 24",SN100003,Calle 123,2,TI,Oficina Principal,Ninguna,foto3.jpg,resguardo3.pdf
+Teclado Logitech,INV-004,Teclado mecánico Logitech,SN100004,Calle 123,3,TI,Oficina Principal,Ninguna,foto4.jpg,resguardo4.pdf
+Mouse Microsoft,INV-005,Mouse inalámbrico Microsoft,SN100005,Calle 123,3,TI,Oficina Principal,Ninguna,foto5.jpg,resguardo5.pdf
+Laptop Lenovo,INV-006,Laptop Lenovo ThinkPad X1,SN100006,Calle 124,2,TI,Oficina Principal,Ninguna,foto6.jpg,resguardo6.pdf
+Proyector Epson,INV-007,Proyector Epson PowerLite,SN100007,Calle 124,1,TI,Sala de Juntas,Ninguna,foto7.jpg,resguardo7.pdf
+Router Cisco,INV-008,Router Cisco RV340,SN100008,Calle 124,2,TI,Redes,Ninguna,foto8.jpg,resguardo8.pdf
+Switch TP-Link,INV-009,Switch TP-Link 24 Puertos,SN100009,Calle 124,2,TI,Redes,Ninguna,foto9.jpg,resguardo9.pdf
+Laptop Asus,INV-010,Laptop Asus ZenBook,SN100010,Calle 125,2,TI,Oficina Principal,Ninguna,foto10.jpg,resguardo10.pdf
+Monitor Samsung,INV-011,Monitor Samsung 27",SN100011,Calle 125,2,TI,Oficina Principal,Ninguna,foto11.jpg,resguardo11.pdf
+Impresora HP,INV-012,Impresora HP LaserJet M15w,SN100012,Calle 125,1,TI,Oficina Principal,Ninguna,foto12.jpg,resguardo12.pdf
+Teclado Microsoft,INV-013,Teclado Microsoft Ergonomic,SN100013,Calle 125,3,TI,Oficina Principal,Ninguna,foto13.jpg,resguardo13.pdf
+Mouse Logitech,INV-014,Mouse Logitech MX Master 3,SN100014,Calle 125,3,TI,Oficina Principal,Ninguna,foto14.jpg,resguardo14.pdf
+Laptop Dell,INV-015,Laptop Dell Latitude 7420,SN100015,Calle 126,2,TI,Oficina Principal,Ninguna,foto15.jpg,resguardo15.pdf
+Proyector BenQ,INV-016,Proyector BenQ TH585,SN100016,Calle 126,1,TI,Sala de Juntas,Ninguna,foto16.jpg,resguardo16.pdf
+Router Netgear,INV-017,Router Netgear Nighthawk,SN100017,Calle 126,2,TI,Redes,Ninguna,foto17.jpg,resguardo17.pdf
+Switch Cisco,INV-018,Switch Cisco 48 Puertos,SN100018,Calle 126,2,TI,Redes,Ninguna,foto18.jpg,resguardo18.pdf
+Laptop Acer,INV-019,Laptop Acer Aspire 5,SN100019,Calle 127,2,TI,Oficina Principal,Ninguna,foto19.jpg,resguardo19.pdf
+Monitor LG,INV-020,Monitor LG UltraWide 29",SN100020,Calle 127,2,TI,Oficina Principal,Ninguna,foto20.jpg,resguardo20.pdf
+Impresora Epson,INV-021,Impresora Epson EcoTank,SN100021,Calle 127,1,TI,Oficina Principal,Ninguna,foto21.jpg,resguardo21.pdf
+Teclado Razer,INV-022,Teclado Razer BlackWidow,SN100022,Calle 127,3,TI,Oficina Principal,Ninguna,foto22.jpg,resguardo22.pdf
+Mouse HP,INV-023,Mouse HP X3000,SN100023,Calle 127,3,TI,Oficina Principal,Ninguna,foto23.jpg,resguardo23.pdf
+Laptop HP,INV-024,Laptop HP EliteBook 840,SN100024,Calle 128,2,TI,Oficina Principal,Ninguna,foto24.jpg,resguardo24.pdf
+Proyector Optoma,INV-025,Proyector Optoma HD146X,SN100025,Calle 128,1,TI,Sala de Juntas,Ninguna,foto25.jpg,resguardo25.pdf
+Router TP-Link,INV-026,Router TP-Link Archer,SN100026,Calle 128,2,TI,Redes,Ninguna,foto26.jpg,resguardo26.pdf
+Switch D-Link,INV-027,Switch D-Link 16 Puertos,SN100027,Calle 128,2,TI,Redes,Ninguna,foto27.jpg,resguardo27.pdf
+Laptop Lenovo,INV-028,Laptop Lenovo IdeaPad 3,SN100028,Calle 129,2,TI,Oficina Principal,Ninguna,foto28.jpg,resguardo28.pdf
+Monitor Acer,INV-029,Monitor Acer 23.8",SN100029,Calle 129,2,TI,Oficina Principal,Ninguna,foto29.jpg,resguardo29.pdf
+Impresora Brother,INV-030,Impresora Brother HL-L2350DW,SN100030,Calle 129,1,TI,Oficina Principal,Ninguna,foto30.jpg,resguardo30.pdf
+Teclado Corsair,INV-031,Teclado Corsair K70,SN100031,Calle 129,3,TI,Oficina Principal,Ninguna,foto31.jpg,resguardo31.pdf
+Mouse Razer,INV-032,Mouse Razer DeathAdder,SN100032,Calle 129,3,TI,Oficina Principal,Ninguna,foto32.jpg,resguardo32.pdf
+Laptop Dell,INV-033,Laptop Dell XPS 13,SN100033,Calle 130,2,TI,Oficina Principal,Ninguna,foto33.jpg,resguardo33.pdf
+Proyector ViewSonic,INV-034,Proyector ViewSonic PA503X,SN100034,Calle 130,1,TI,Sala de Juntas,Ninguna,foto34.jpg,resguardo34.pdf
+Router Asus,INV-035,Router Asus RT-AX88U,SN100035,Calle 130,2,TI,Redes,Ninguna,foto35.jpg,resguardo35.pdf
+Switch HP,INV-036,Switch HP 24 Puertos,SN100036,Calle 130,2,TI,Redes,Ninguna,foto36.jpg,resguardo36.pdf
+Laptop Acer,INV-037,Laptop Acer Swift 3,SN100037,Calle 131,2,TI,Oficina Principal,Ninguna,foto37.jpg,resguardo37.pdf
+Monitor Philips,INV-038,Monitor Philips 27",SN100038,Calle 131,2,TI,Oficina Principal,Ninguna,foto38.jpg,resguardo38.pdf
+Impresora Canon,INV-039,Impresora Canon PIXMA,SN100039,Calle 131,1,TI,Oficina Principal,Ninguna,foto39.jpg,resguardo39.pdf
+Teclado Logitech,INV-040,Teclado Logitech K120,SN100040,Calle 131,3,TI,Oficina Principal,Ninguna,foto40.jpg,resguardo40.pdf
+Mouse Microsoft,INV-041,Mouse Microsoft Bluetooth,SN100041,Calle 131,3,TI,Oficina Principal,Ninguna,foto41.jpg,resguardo41.pdf
+Laptop HP,INV-042,Laptop HP Pavilion,SN100042,Calle 132,2,TI,Oficina Principal,Ninguna,foto42.jpg,resguardo42.pdf
+Proyector Epson,INV-043,Proyector Epson EB-S41,SN100043,Calle 132,1,TI,Sala de Juntas,Ninguna,foto43.jpg,resguardo43.pdf
+Router Cisco,INV-044,Router Cisco RV260,SN100044,Calle 132,2,TI,Redes,Ninguna,foto44.jpg,resguardo44.pdf
+Switch TP-Link,INV-045,Switch TP-Link 8 Puertos,SN100045,Calle 132,2,TI,Redes,Ninguna,foto45.jpg,resguardo45.pdf
+Laptop Lenovo,INV-046,Laptop Lenovo Yoga,SN100046,Calle 133,2,TI,Oficina Principal,Ninguna,foto46.jpg,resguardo46.pdf
+Monitor Dell,INV-047,Monitor Dell P2419H,SN100047,Calle 133,2,TI,Oficina Principal,Ninguna,foto47.jpg,resguardo47.pdf
+Impresora HP,INV-048,Impresora HP DeskJet 3755,SN100048,Calle 133,1,TI,Oficina Principal,Ninguna,foto48.jpg,resguardo48.pdf
+Teclado Razer,INV-049,Teclado Razer Cynosa,SN100049,Calle 133,3,TI,Oficina Principal,Ninguna,foto49.jpg,resguardo49.pdf
+Mouse Logitech,INV-050,Mouse Logitech G502,SN100050,Calle 133,3,TI,Oficina Principal,Ninguna,foto50.jpg,resguardo50.pdf
